@@ -1,0 +1,261 @@
+.body {
+    background-color: #F4F7FB;
+}
+
+.first {
+    background-color: #18487B;
+    width: 85%;
+    height: auto;
+    margin: 20px auto;
+    padding: 50px 10px;
+    border: 1px solid #2b5b88;
+    border-radius: 15px;
+    color: whitesmoke;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.first .kk {
+    border: 1px solid #2A5685;
+    background-color: #2A5685;
+    color: rgb(228, 221, 221);
+    padding: 6px 4px;
+    border-radius: 12px;
+    margin: 5px 3px;
+    text-decoration: none;
+}
+
+.second {
+    margin: 5px;
+    background-color: white;
+    border: 1px solid #e5ebf2;
+    color: #333;
+    width: 85%;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 15px;
+    box-sizing: border-box;
+    height: 50%;
+}
+
+.about {
+    width: 70%;
+    border: 1px solid #416892;
+    margin: 12px 10px 10px 10px;
+    padding: 6px;
+    border-radius: 18px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    height: auto;
+}
+
+
+.me {
+    color: #18487B;
+}
+
+#pp {
+    border: 3px solid #acd6f8;
+}
+
+.second p {
+    color: #0e2d45;
+}
+
+.second .me .profile-pic {
+    width: 170px;
+    border-radius: 60%;
+}
+
+.clear {
+    clear: both;
+}
+
+
+
+.experiencee {
+    margin: 20px auto;
+    width: 85%;
+    background-color: white;
+    border-radius: 15px;
+    border: 1px solid #e5ebf2;
+    padding: 25px;
+    box-sizing: border-box;
+    height: auto;
+}
+
+
+.third {
+    background-color: white;
+    border: 1px solid #e5ebf2;
+    color: #333;
+    width: 85%;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 15px;
+    box-sizing: border-box;
+    height: 50%;
+}
+
+.third h2 {
+    color: #144377;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 12px;
+}
+
+
+.skills-box {
+    text-align: center;
+    border-radius: 15px;
+    background-color: white;
+    box-sizing: border-box;
+    width: 85%;
+}
+
+.skill {
+    float: left;
+    background-color: #FBFDFF;
+    color: #18487B;
+    border: 1px solid #e5ebf2;
+    width: 23%;
+    height: 110px;
+    padding: 10px;
+    margin: 5px 1%;
+    border-radius: 10px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.skill h3 {
+    margin-bottom: 8px;
+    margin-top: 8px;
+    color: #3880BB;
+}
+
+.skill p {
+    margin-top: 0;
+}
+
+.fourth, .fourthh {
+    background-color: #f7f9fc;
+    border: 1px solid #e0e8f2;
+    border-left: 4px solid #0875c9;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 50px 50px;
+    width: 90%;
+    box-sizing: border-box;
+    height: auto;
+    display: inline-block;
+}
+
+.man-pic {
+    width: 60px;
+    height: 60px;
+    padding: 5px;
+    border: 1px solid #d6e6f7;
+    border-radius: 10px;
+    background-color: white;
+    margin-right: 15px;
+    float: left;
+    box-sizing: border-box;
+    display: inline;
+}
+
+.speaker {
+    width: 60px;
+    height: 60px;
+    padding: 5px;
+    border: 1px solid #d6e6f7;
+    border-radius: 10px;
+    background-color: white;
+    margin-right: 15px;
+    float: left;
+    box-sizing: border-box;
+    display: inline;
+}
+
+.fifth {
+    background-color: #18487B;
+    color: white;
+    width: 85%;
+    margin: 20px auto;
+    border-radius: 15px;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.fifth h3 {
+    border-bottom: 1px solid #52769a;
+    padding-bottom: 12px;
+    margin-top: 0;
+}
+
+.fifth a {
+    display: inline-block;
+    background-color: #315c87;
+    color: white;
+    padding: 10px;
+    margin: 3px;
+    border: 1px solid #52769a;
+    border-radius: 7px;
+    box-sizing: border-box;
+}
+
+.footer {
+    background-color: #051e38;
+    width: 85%;
+    height: auto;
+    margin: 20px auto;
+    padding: 25px;
+    border: 1px solid #2b5b88;
+    border-radius: 10px;
+    color: aliceblue;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.experiencee h2 {
+    color: #08294f;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 12px;
+}
+
+.experiencee h4 {
+    color: #1a507f;
+}
+
+.company {
+
+    color: #2e6897;
+}
+
+.company-2 {
+    color: #0B65AD;
+}
+
+.mee {
+    border: 3px solid white;
+    background-color: #0B65AD;
+    color: white;
+    width: 25px;
+    border-bottom: 5px;
+    border-radius: 10px;
+    margin: 7px 7px;
+    padding: 15px 5px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.mail {
+    text-decoration: none;
+}
+
+.linkedin {
+    text-decoration: none;
+}
+
+.githup {
+    text-decoration: none;
+}
